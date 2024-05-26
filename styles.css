@@ -1,0 +1,22 @@
+body {
+  background-color: lightslategray;
+  font-family: "Courier New", sans-serif;
+  text-align: center;
+}
+a,
+.linktree {
+  color: rgb(148, 195, 255);
+}
+ul {
+  list-style-type: none;
+}
+
+.main {
+  color: aliceblue;
+}
+.sub-title {
+  font-size: 12px;
+}
+h1 {
+  color: aliceblue;
+}
